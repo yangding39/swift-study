@@ -20,14 +20,17 @@
                                 <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
-                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="In5-vO-tbg"/>
-                                    <outlet property="delegate" destination="BYZ-38-t0r" id="j4e-3e-VcS"/>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="wRC-wW-gjL"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="qoW-vt-V2L"/>
                                 </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     </view>
+                    <connections>
+                        <outlet property="appsTableView" destination="abY-Y8-AVy" id="1LD-3l-38w"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
