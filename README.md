@@ -15,5 +15,5 @@ Now, first swift study application is coming, I'll complete this project at the 
    @IBOutlet var appsTableView : UITableView
 ``` 
       Solutions: set Referencing Outlets in storyboard  
-    ![image](https://github.com/yangding39/swift-study/raw/master/images/reference-outlet.png)
+  ![image](https://github.com/yangding39/swift-study/raw/master/images/reference-outlet.png)
    
